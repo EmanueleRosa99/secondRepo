@@ -1,1 +1,2 @@
 file3 creato in locale
+This is just a bugfix
